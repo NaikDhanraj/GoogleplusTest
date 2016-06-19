@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "653250942175",
+    "project_id": "hardy-antonym-134023"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653250942175:android:2ef0f1d2a2445002",
+        "android_client_info": {
+          "package_name": "com.dssp.googleplustest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653250942175-e2j8u1r3d9jljjcnr82agcuv5f8cj9q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dssp.googleplustest",
+            "certificate_hash": "747FC08D444952477442177A7F346789D04DA735"
+          }
+        },
+        {
+          "client_id": "653250942175-9s10amu6es4engga30p62dofti8s705b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJ9wHfnL_o99FuZe5ueIDrx8egRaAFns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleplusTest</string>
+    <string name="signed_in_fmt">user</string>
+</resources>
